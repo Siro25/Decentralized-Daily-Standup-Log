@@ -99,6 +99,7 @@ The `standup_log` module provides:
 - `create_standup_log()`: Creates a new standup entry
 - `StandupLogCreated` event: Emitted on each submission
 - View functions: `get_team_member()`, `get_what_i_did()`, `get_what_i_will_do()`, `get_blockers()`, `get_timestamp()`
+- Address: 0x44da7d2795eafc9444727bb85518bf5ee03edbb1b4f4110b308cba38272a3be4
 
 ## 📚 Learn More
 
