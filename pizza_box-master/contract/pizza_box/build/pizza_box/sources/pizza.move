@@ -1,5 +1,8 @@
 module pizza_box::pizza {
     use std::bcs;
+    use iota::object::{Self, UID};
+    use iota::transfer;
+    use iota::tx_context;
 
     public struct Pizza has store {
         olive_oils: u16,
