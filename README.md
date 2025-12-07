@@ -9,6 +9,9 @@ This dApp allows teams to record their daily standup meetings on-chain, ensuring
 - **Transparency**: Team updates are verifiable and tamper-proof
 - **Accountability**: Each team member's contributions are tracked with timestamps
 - **Decentralized**: No central authority controls the data
+##Screenshot
+<img width="1220" height="912" alt="image" src="https://github.com/user-attachments/assets/55b5a6d4-8ee0-4fa5-bb57-60f4e9bf23ac" />
+  Link:https://explorer.iota.org/object/0xb6b94808a12b8ebc61ed333afb87e1ed4ceec2184c6ce4e955628dde2bf33e2c?network=testnet
 
 ## 🚀 Quick Start
 
